@@ -1,0 +1,10 @@
+<button mat-button [matMenuTriggerFor]="menu" class="menu"><p>Меню</p></button>
+<mat-menu #menu="matMenu">
+  <button mat-menu-item routerLink="/profile">Профиль</button>
+  <button mat-menu-item routerLink="/projects">Проекты</button>
+  <button mat-menu-item routerLink="/publications">Публикации</button>
+  <button mat-menu-item routerLink="/settings">Настройки</button>
+  <button mat-menu-item routerLink="">Главная</button>
+
+</mat-menu>
+
