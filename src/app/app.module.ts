@@ -10,7 +10,6 @@ import { FooterComponent } from './components/footer/footer.component';
 import { LogoComponent } from './components/header/logo/logo.component';
 import { NotFoundComponent } from 'src/not-found.component';
 import { ExitComponent } from './components/header/menu/exit/exit.component';
-import { ProfileComponent } from './components/header/menu/profile/profile.component';
 import { ProjectsComponent } from './components/header/menu/projects/projects.component';
 import { PublicationsComponent } from './components/header/menu/publications/publications.component';
 import { SettingsComponent } from './components/header/menu/settings/settings.component';
